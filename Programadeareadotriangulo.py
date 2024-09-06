@@ -1,4 +1,4 @@
-import math
+# This is Cisco Exercise 4_3_2 in Python Essentials Course.
 
 
 def is_a_triangle(lado1, lado2, base): 
