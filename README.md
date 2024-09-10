@@ -1,2 +1,2 @@
 # pythonprogamas
-Meus progamas python no dio.me
+Programas úteis em python.
