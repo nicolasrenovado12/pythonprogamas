@@ -15,7 +15,7 @@ while True:
         break
     elif text == 1:
  
-        sacar = int(input("Digite o quanto quer sacar: \n"))
+        sacar = float(input("Digite o quanto quer sacar: \n"))
         
         if saldo <= 0:
             print("Não há o que sacar")
